@@ -9,3 +9,4 @@ echo phpinfo();
 echo "hollow world2";
 echo "33";
 echo 4;
+echo 5;exit;
