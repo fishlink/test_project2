@@ -6,3 +6,4 @@
  * Time: 17:51
  */
 echo phpinfo();
+echo "hollow world2";
